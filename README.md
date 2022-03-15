@@ -1,2 +1,0 @@
-# seif
-kayles game
